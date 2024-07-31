@@ -42,3 +42,5 @@ The Titanic dataset provides information on the passengers who were aboard the T
 - seaborn
 
 **SAMPLE DATASET: https://www.kaggle.com/c/titanic/data** 
+
+Also the CSV file used here is uploaded in the repository.
